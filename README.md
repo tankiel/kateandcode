@@ -1,8 +1,23 @@
-# Forty - Jekyll Theme
+## Portfolio website built to practice static sites programming.
+
+info: I have no previouse experience with Ruby. 
+
+Challanges: 
+- install Ruby on Windows;
+-  change Jekyll theme, choosen from open source themes;
+
+my first experience with Jekyll - [a blog documenting my web development bootcamp](https://pinaska.github.io/); but I did not set up Ruby enviroment then and did not see changes locally. I want to do this differently this time?
+
+## Why not WordPress?
+I am not coding websites on WordPress, for clients. WP is awesome for clients, who does not want to deal with code. I do, hence I am trying Jekyll.
+
+-----------------------------------------------------------------------------------------------------------
+
+# Credits
+```
+shorter README from master branch of 
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
-
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
 # How to Use
 
@@ -27,8 +42,6 @@ If you would like to report a bug, ask a question, request a feature, feel free 
 Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com).
 
 The GitHub repository is simply a mirror of the GitLab repository.
-
-# Credits
 
 Original README from HTML5 UP:
 
