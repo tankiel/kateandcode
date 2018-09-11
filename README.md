@@ -1,12 +1,12 @@
 ## Portfolio website built to practice static sites programming.
 
-info: I have no previouse experience with Ruby. 
+info: I have no previous experience with Ruby. 
 
-Challanges: 
+Challenges: 
 - install Ruby on Windows;
--  change Jekyll theme, choosen from open source themes;
+-  change Jekyll theme, chosen from open source themes;
 
-my first experience with Jekyll - [a blog documenting my web development bootcamp](https://pinaska.github.io/); but I did not set up Ruby enviroment then and did not see changes locally. I want to do this differently this time?
+my first experience with Jekyll - [a blog documenting my web development bootcamp](https://pinaska.github.io/); but I did not set up Ruby environment then and did not see changes locally. I want to do this differently this time?
 
 ## Why not WordPress?
 I am not coding websites on WordPress, for clients. WP is awesome for clients, who does not want to deal with code. I do, hence I am trying Jekyll.
