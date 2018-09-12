@@ -1,6 +1,6 @@
 ---
-title: Landing
-layout: landing
+title: websites
+layout: page
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
 nav-menu: true
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="" data-position="center center" />
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
