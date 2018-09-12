@@ -28,21 +28,21 @@ nav-menu: true
 		<p>My family never really planned to live in Canada. I never really thought I will be in constant awe with technology. It all happened and I am very happy about it</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>I am a project manager</h3>
+		<h3>I am a never-stop-learning web developer</h3>
 		<p>These helped me grately to understand web. Seriously! I studied Culture and now I can apply my knowledge of human needs to web design</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(small)">
-		<h3>I am a project manager</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>... a project manager with background in finance and Hungarian language</h3>
+		<pl>I have worked 5+ years in corporate enviroment in Poland as a project lead. My studies helped me grately to understand web. Seriously! I studied Culture and now I can apply my knowledge of human needs to web design</pl>
 	</div>
 	<div class="4u 12u$(small)">
-		<h3>I am a women community builder</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>... a women community builder</h3>
+		<p>Staring from November 2016 I have organized more than 20 meetings for women new to Vancouver. In 2017 I listened to 150+ women stories. Every month we meet, we chat, we grow. This is all possible thanks to Mount Pleasant Neighbourhood House and Vacnouver Foundation.</p>
 	</div>
 	<div class="4u$ 12u$(small)">
-		<h3>And I am a blogger</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>... am a blogger</h3>
+		<p>I run two blogs on WordPress, both in Polish language (sorry!). One is about our family Canadian adventure, and the other is about my way to become a full stack programmer. I have been writing content, running social media, sending newsletters from 2014.</p>
 	</div>
 </div>
 
@@ -68,9 +68,6 @@ nav-menu: true
 		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
 	</div>
-</div>
-
-</div>
 </div>
 
 </div>
