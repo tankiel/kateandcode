@@ -13,33 +13,34 @@ nav-menu: true
 		<header class="major">
 			<h1>A little about me</h1>
 		</header>
-<h3>My work mission</h3>
+<h3>Philosophy</h3>
 <div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
+	<p>My work philosophy is to start simple and always listen to the other side's experience. Design based on user  research and write the code clean.
+	Also: 'if not me, who? if not know, when?' </p>
 </div>
 
 <!-- Content -->
 <h2 id="content">hi, I am Kate Jeziorska</h2>
-<p>Thank you for checking up this site. So, you want to know something about me? I will tell you, sure, and then, send me a message, who are you. I bet you have a great story to tell!</p>
+<p>Thank you for checking up this site. So, you want to know something about me? I will gladly tell you, sure, and then, I would love to hear, who are you. I bet you have a great story to tell - drop me a message!</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>I am ordinary 30 something girl</h3>
 		<p>My family never really planned to live in Canada. I never really thought I will be in constant awe with technology. It all happened and I am very happy about it</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>I have background in European language and finance</h3>
+		<h3>I am a project manager</h3>
 		<p>These helped me grately to understand web. Seriously! I studied Culture and now I can apply my knowledge of human needs to web design</p>
 	</div>
 	<!-- Break -->
-	<div class="4u 12u$(medium)">
+	<div class="4u 12u$(small)">
 		<h3>I am a project manager</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
-	<div class="4u 12u$(medium)">
+	<div class="4u 12u$(small)">
 		<h3>I am a women community builder</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="4u$ 12u$(small)">
 		<h3>And I am a blogger</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
