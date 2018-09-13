@@ -3,7 +3,7 @@ title: Kate and code
 subtitle: Web development
 email: k_jeziorska@yahoo.com
 description: I build websites, web apps<br /> and make your internet nice.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/kateandcode" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
@@ -15,16 +15,16 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 8
+tiles-count: 3
 
 # social settings
 500px_url:
 facebook_url:
-github_url:
+github_url: https://github.com/pinaska
 gitlab_url: 
 googleplus_url: 
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/katejeziorska
 pinterest_url:
 slack_url:
 twitter_url:
