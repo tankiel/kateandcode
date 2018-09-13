@@ -23,8 +23,8 @@ nav-menu: true
 </div>
 
 <!-- Content -->
-<h2 id="content">hi, I am Kate Jeziorska</h2>
-<p>Thank you for checking up this site. So, you want to know something about me? I will gladly tell you, sure, and then, I would love to hear, who are you. I bet you have a great story to tell - drop me a message!</p>
+<!-- <h2 id="content">hi, I am Kate Jeziorska</h2>
+<p>Thank you for checking up this site. So, you want to know something about me? I will gladly tell you, sure, and then, I would love to hear, who are you. I bet you have a great story to tell - drop me a message!</p> -->
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>I am ordinary 30 something girl</h3>
