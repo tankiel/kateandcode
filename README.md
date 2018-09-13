@@ -4,6 +4,7 @@ info: I have no previous experience with Ruby.
 
 Challenges: 
 - install Ruby on Windows;
+- install Jekyll localhost server;
 -  change Jekyll theme, chosen from open source themes;
 - working on Github with master branch forked. I commit on gh-pages and when I changed the name of the repository, no css was built up. Why?
 
