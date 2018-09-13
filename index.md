@@ -8,6 +8,4 @@ author: null
 show_tile: false
 ---
 
-I am a web developer, based in beautiful Vancouver, creating user-friendly web experiences.
-
-How I work? First, I listen to the people. Then I design a web project to suit their emotions and sell their business. Finally, I code a clean and responsive website for them.
+I am a web developer, based in beautiful Vancouver, creating user-friendly web experiences. I listen, then design a web project to suit emotions. Finally, I code a clean and responsive website, that sells the business.

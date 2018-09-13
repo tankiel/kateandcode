@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: landing
 title: About me
 nav-menu: true
+# show_tile: false
 ---
 
 <!-- Main -->
