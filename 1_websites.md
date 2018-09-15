@@ -22,9 +22,9 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights inner">
 	<section class="website-item">
-		<span class="image fit">
+		<a href="https://www.canvassalon.ca/" class="image">
 			<img src="assets/images/canvassalon_kate_jeziorska_web_development.png" alt="canvassalon webdesign desk Kate Jeziorska web development"  />
-		</span>
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -44,7 +44,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section class="website-item">
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/wav_kate_jeziorska_web_development.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -67,7 +67,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section class="website-item">
-		<a href="generic.html" class="image">
+		<a href="https://www.kasiaikod.pl/" class="image">
 			<img src="assets/images/kasiaikod_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -83,7 +83,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section class="website-item">
-		<a href="generic.html" class="image">
+		<a href="https://github.com/pinaska/inhabitent_multisite_WP_theme" class="image">
 			<img src="assets/images/inhabitent_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -93,13 +93,13 @@ nav-menu: true
 				</header>
 						<p>first WordPress theme and plugin development.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">check the code</a></li>
+					<li><a href="https://github.com/pinaska/inhabitent_multisite_WP_theme" class="button">check the code</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section class="website-item">
-		<a href="generic.html" class="image">
+		<a href="https://pinaska.github.io/we_create_rwd_one_page_site/" class="image">
 			<img src="assets/images/we_create_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -116,7 +116,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section class="website-item">
-		<a href="generic.html" class="image">
+		<a href="https://pinaska.github.io/aloha_webiste_one-page/" class="image">
 			<img src="assets/images/aloha_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -133,7 +133,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section class="website-item">
-		<a href="#" class="image">
+		<a href="https://pinaska.github.io/kate_jeziorska_one-page_website/" class="image">
 			<img src="assets/images/first_web_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">

@@ -16,7 +16,7 @@ nav-menu: true
 		<header class="major">
 			<h2>why am I coding?</h2>
 		</header>
-		<p>I write code to solve problems. Since my family moved to Canada the best way to keep the connections between people is technology. That's why in 2014 I started sharing our stories on wordpress.org. Soon it was not enough - I wanted to have a full control over my piece of the internet. <br />Some day, I will build an app to fully see, feel and touch people on the other side of the copmuter screen. Skype 2.0</p>
+		<p>I write code to solve problems. Since my family moved to Canada the best way to keep the connections between people is technology. That's why in 2014 I started sharing our stories on wordpress.org. Soon it was not enough - I wanted to have a full control over my piece of the internet. <br />Some day, I will build an app to fully see, feel and touch people on the other side of the computer screen.</p>
 	</div>
 </section>
 
