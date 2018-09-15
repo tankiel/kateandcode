@@ -2,7 +2,7 @@
 layout: page
 title: websites
 description: 'I have coded 5+ websites.<br /> both commercial and non-profit projects.<br /> <br /> see them all'
-image: assets/images/computer_websites_Kate_Jeziorska_web_Development.jpg" alt="computer on a desk Kate Jeziorska web development"
+image: assets/images/computer_websites_Kate_Jeziorska_web_Development.png" alt="computer on a desk Kate Jeziorska web development"
 nav-menu: true
 ---
 
@@ -15,23 +15,24 @@ nav-menu: true
 		<header class="major">
 			<h2>how I work</h2>
 		</header>
-		<p>Website is not just a bunch of code lines, displaying nice visuals at the end. It is a living place that needs to suit the emotions and fullfill certain business needs.<br />I choose my tech stack based on project requirements, but my first choice for client webiste is a free, developer WordPress theme. The website needs to be intuitive for clients and for client's clients. And it should not cost a fortune ;)</p>
+		<p>For me, a website is not just a bunch of code lines, displaying nice visuals at the end. It is a living place that needs to suit the emotions and fullfill certain business needs.<br />I choose my programming stack based on project requirements, but my first choice for client website is a free, developer-ready WordPress installaion.</p>
 	</div>
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
-	<section>
+<section id="two" class="spotlights inner">
+	<section class="website-item">
 		<a href="generic.html" class="image">
-			<img src="assets/images/canvassalon_Kate_Jeziorska_web_development.gif" alt="canvassalon webdesign desk Kate Jeziorska web development" data-position="center center" />
+			<img src="assets/images/canvassalon_Kate_Jeziorska_web_development.gif" alt="canvassalon webdesign desk Kate Jeziorska web development"  />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Canvas salon WordPress site</h3>
 				</header>
-						<p>Project dates: spring 2018.</p>
-						<ul> 
+					<span class="image right"><img src="assets/images/canvas_salon_kate_jeziorska_web_development.png" alt="" /></span> 
+						<p>spring - summer 2018.</p>
+						<ul>
 						<li>redesign existing WordPress site based on the chosen, commercial theme.</li>
 						<li>configure plugins and migration to the new hosting</li>
 						<li>SEO adjustment</li>
@@ -43,43 +44,83 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<section class="website-item">
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/WAV_WordPress_multipage_website.gif" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Wild About Vancouver WordPress site</h3>
 				</header>
-				<p>Project dates: spring 2018.</p>
-				<ul>
-				<li>final project of Web Development Professional Programm at RED Academy, Vacnouver</li>
-				<li>coded a multipage website based on delivered mockups</li>
-				<li>used developer theme, _underscore</li>
-				<li>deployment ongoing with code tweaks and adjustment of existing content</li>
-				</ul>
+				<span class="image right"><img src="assets/images/wav_kate_jeziorska_web_development.png" alt="" /></span> 
+				<p>summer -autumn 2018.</p>
+					<ul>
+						<li>final, team project of Web Development Professional Programm at RED Academy, Vancouver</li>
+						<li>coded a multipage website based on delivered mockup</li>
+						<li>used developer theme, _underscore</li>
+						<li>customized paid plugin: event calendar</li>
+						<li>deployment ongoing, with code tweaks and adjustment of existing content</li>
+					</ul>
 				<ul class="actions">
 					<li><a href="#" class="button">[soon]see the website</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
+	<section class="website-item">
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/inhabitent_Kate_Jeziorska_Web_Development.gif" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Inhabitent store WordPress site</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<span class="image right"><img src="assets/images/inhabitent_Screenshot_kate_jeziorska_Web_Development.png" alt="" /></span> 
+				<p>spring 2018.</p>
+						<p>first WordPress theme and plugin development.</p>
 				<ul class="actions">
-					<li><a href="inhabitent.html" class="button">check the code on Github</a></li>
+					<li><a href="inhabitent.html" class="button">check the code</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section class="website-item">
+		<a href="generic.html" class="image">
+			<img src="assets/images/we_create_rwd_flexbox_grid_Kate_Jeziorska_Web_Development.gif" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>We create RWD site</h3>
+				</header>
+				<span class="image left"><img src="assets/images/we_create_kate_jeziorska_Web_Development.png" alt="" /></span> 
+				<p>spring 2018.</p>
+				<p>Website coded from PSD, fully responsive, no library used</p>
+				<ul class="actions">
+					<li><a href="https://pinaska.github.io/we_create_rwd_one_page_site/" class="button">demo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section class="website-item">
+		<a href="generic.html" class="image">
+			<img src="assets/images/aloha_website.gif" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+			<span class="image right"><img src="assets/images/aloha_kate_jeziorska_Web_Development.png" alt="" /></span> 
+				<header class="major">
+					<h3>Aloha RWD site</h3>
+				</header>
+				<p>spring 2018.</p>
+				<p>My first website coded from PSD, fully responsive | vanilla JS library used</p>
+				<ul class="actions">
+					<li><a href="https://pinaska.github.io/aloha_webiste_one-page/" class="button">demo</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 </section>
-</div><!--main>
+</div>

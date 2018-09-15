@@ -2,7 +2,7 @@
 layout: page
 title: technologies
 description: 'my current IT stack includes both front and back-end programming experience<br /> <br /> see the details'
-image: assets/images/code_books_Kate_Jeziorska_Web_development.jpg" alt="PHP code on the screen Kate Jeziorska web development" 
+image: assets/images/code_books_Kate_Jeziorska_Web_development.png" alt="PHP code on the screen Kate Jeziorska web development" 
 nav-menu: true
 ---
 
