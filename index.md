@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I am a web developer with background in finance project managment and customer service, currently based in beautiful Vancouver and creating user-friendly web experiences. I listen, then design a web project to suit emotions. Finally, I code a clean and responsive website, that sells the business.
+I am a web developer with a background in the finance project managment and customer service, currently based in beautiful Vancouver and creating user-friendly web experiences. I listen, then design a web project to suit emotions. Finally, I code a clean and responsive website, that sells the business.

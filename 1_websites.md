@@ -22,15 +22,14 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights inner">
 	<section class="website-item">
-		<a href="generic.html" class="image">
-			<img src="assets/images/canvassalon_Kate_Jeziorska_web_development.gif" alt="canvassalon webdesign desk Kate Jeziorska web development"  />
-		</a>
+		<span class="image fit">
+			<img src="assets/images/canvassalon_kate_jeziorska_web_development.png" alt="canvassalon webdesign desk Kate Jeziorska web development"  />
+		</span>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Canvas salon WordPress site</h3>
 				</header>
-					<span class="image right"><img src="assets/images/canvas_salon_kate_jeziorska_web_development.png" alt="" /></span> 
 						<p>spring - summer 2018.</p>
 						<ul>
 						<li>redesign existing WordPress site based on the chosen, commercial theme.</li>
@@ -46,14 +45,13 @@ nav-menu: true
 	</section>
 	<section class="website-item">
 		<a href="generic.html" class="image">
-			<img src="assets/images/WAV_WordPress_multipage_website.gif" alt="" data-position="top center" />
+			<img src="assets/images/wav_kate_jeziorska_web_development.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Wild About Vancouver WordPress site</h3>
 				</header>
-				<span class="image right"><img src="assets/images/wav_kate_jeziorska_web_development.png" alt="" /></span> 
 				<p>summer -autumn 2018.</p>
 					<ul>
 						<li>final, team project of Web Development Professional Programm at RED Academy, Vancouver</li>
@@ -70,32 +68,45 @@ nav-menu: true
 	</section>
 	<section class="website-item">
 		<a href="generic.html" class="image">
-			<img src="assets/images/inhabitent_Kate_Jeziorska_Web_Development.gif" alt="" data-position="25% 25%" />
+			<img src="assets/images/kasiaikod_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Inhabitent store WordPress site</h3>
+					<h3>Kasia i kod WordPress blog</h3>
 				</header>
-				<span class="image right"><img src="assets/images/inhabitent_Screenshot_kate_jeziorska_Web_Development.png" alt="" /></span> 
-				<p>spring 2018.</p>
-						<p>first WordPress theme and plugin development.</p>
+						<p>ongoing</p>
 				<ul class="actions">
-					<li><a href="inhabitent.html" class="button">check the code</a></li>
+					<li><a href="https://www.kasiaikod.pl/" class="button">[pol]see the website</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section class="website-item">
 		<a href="generic.html" class="image">
-			<img src="assets/images/we_create_rwd_flexbox_grid_Kate_Jeziorska_Web_Development.gif" alt="" data-position="25% 25%" />
+			<img src="assets/images/inhabitent_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Inhabitent store WordPress site</h3>
+				</header>
+						<p>first WordPress theme and plugin development.</p>
+				<ul class="actions">
+					<li><a href="#" class="button">check the code</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section class="website-item">
+		<a href="generic.html" class="image">
+			<img src="assets/images/we_create_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>We create RWD site</h3>
 				</header>
-				<span class="image left"><img src="assets/images/we_create_kate_jeziorska_Web_Development.png" alt="" /></span> 
 				<p>spring 2018.</p>
 				<p>Website coded from PSD, fully responsive, no library used</p>
 				<ul class="actions">
@@ -106,18 +117,37 @@ nav-menu: true
 	</section>
 	<section class="website-item">
 		<a href="generic.html" class="image">
-			<img src="assets/images/aloha_website.gif" alt="" data-position="25% 25%" />
+			<img src="assets/images/aloha_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
-			<span class="image right"><img src="assets/images/aloha_kate_jeziorska_Web_Development.png" alt="" /></span> 
 				<header class="major">
 					<h3>Aloha RWD site</h3>
 				</header>
 				<p>spring 2018.</p>
-				<p>My first website coded from PSD, fully responsive | vanilla JS library used</p>
+				<p>My first school project coded from PSD, fully responsive | vanilla JS library used</p>
 				<ul class="actions">
 					<li><a href="https://pinaska.github.io/aloha_webiste_one-page/" class="button">demo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section class="website-item">
+		<a href="#" class="image">
+			<img src="assets/images/first_web_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Personal webiste 1.0</h3>
+				</header>
+				<p>winter 2018.</p>
+				<ul>
+				<li>My first website, and it is responsive!</li>
+				<li>first line of JavaScript - button asking what is my favourite furniture store</li>
+				</ul>
+				<ul class="actions">
+					<li><a href="https://pinaska.github.io/kate_jeziorska_one-page_website/" class="button">demo</a></li>
 				</ul>
 			</div>
 		</div>

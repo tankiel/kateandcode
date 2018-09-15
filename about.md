@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about me
-description: 'Quite average 30 something girl, who likes code, numbers and people <br /><br /> Read more about me'
+description: 'An average 30 something girl, who likes code, numbers and people <br /><br /> Read more about me'
 image: assets/images/Kate_Jeziorska_web_development.png" alt="two coffe mugs Kate Jeziorska web development" 
 nav-menu: true
 # show_tile: false
