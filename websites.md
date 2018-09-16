@@ -4,6 +4,7 @@ title: websites
 description: 'I have coded 5+ websites.<br /> both commercial and non-profit projects.<br /> <br /> see them all'
 image: assets/images/computer_websites_kate_jeziorska_web_development.png" alt="computer on a desk Kate Jeziorska web development"
 nav-menu: true
+order: 1
 ---
 
 <!-- Main -->

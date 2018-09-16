@@ -5,6 +5,7 @@ description: 'An average 30 something girl, who likes code, numbers and people <
 image: assets/images/kate_jeziorska_web_development.png" alt="two coffe mugs Kate Jeziorska web development" 
 nav-menu: true
 # show_tile: false
+order: 4
 ---
 
 <!-- Main -->
