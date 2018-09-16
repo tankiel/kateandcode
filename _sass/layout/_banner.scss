@@ -7,7 +7,7 @@
 
 #banner {
     @include vendor('align-items', 'center');
-    @include vendor('background-image', 'url("../images/banner2_Kate_Jeziorska_web_development.png")');
+    @include vendor('background-image', 'url("../images/banner2_kate_jeziorska_web_development.png")');
     @include vendor('display', 'flex');
     @include padding(4em, 0, (2em, 0, 0, 0));
     background-attachment: fixed;

@@ -2,7 +2,7 @@
 layout: page
 title: websites
 description: 'I have coded 5+ websites.<br /> both commercial and non-profit projects.<br /> <br /> see them all'
-image: assets/images/computer_websites_Kate_Jeziorska_web_Development.png" alt="computer on a desk Kate Jeziorska web development"
+image: assets/images/computer_websites_kate_jeziorska_web_development.png" alt="computer on a desk Kate Jeziorska web development"
 nav-menu: true
 ---
 
