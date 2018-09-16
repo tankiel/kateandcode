@@ -6,15 +6,15 @@ image: assets/images/code_books_kate_jeziorska_web_development.png" alt="PHP cod
 nav-menu: true
 ---
 
-<!-- Main -->
+<!-- Main
 <div id="main" class="alt">
 
 <!-- One -->
-<section id="one">
+<!-- <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>Technologies and programing languages I have worked with.</h1>
-		</header>
+		</header> -->
 
 <!-- Content -->
 <!-- <h2 id="content">Sample Content</h2>
@@ -352,4 +352,4 @@ Finally, this is a <a href="#">link</a>.</p>
 </div>
 </section>
 
-</div>
+</div> -->
