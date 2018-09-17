@@ -25,9 +25,9 @@ permalink: webapps
 <!-- Two -->
 <section id="two" class="spotlights inner">
 	<section class="website-item">
-		<span class="image fit">
-			<img src="assets/images/instastories_kate_jeziorska_web_development.png" alt="canvassalon webdesign desk Kate Jeziorska web development"  />
-		</span>
+		<a hreft="https://pinaska.github.io/instanews_one-page_API_app/" class="image">
+			<img src="assets/images/instastories_kate_jeziorska_web_development.png" alt="instastories app opening screen"  />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -39,13 +39,13 @@ permalink: webapps
 						<li>AJAX request built with jquery</li>
                         </ul>
 				<ul class="actions">
-					<li><a href="#" class="button">demo</a></li>
+					<li><a href="https://pinaska.github.io/instanews_one-page_API_app/" class="button">demo</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section class="website-item">
-		<a href="generic.html" class="image">
+		<a href="https://pinaska.github.io/to_do_app/" class="image">
 			<img src="assets/images/todo_kate_jeziorska_web_development.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -65,7 +65,7 @@ permalink: webapps
 		</div>
 	</section>
 	<section class="website-item">
-		<a href="generic.html" class="image">
+		<a href="https://pinaska.github.io/api_weather_app/" class="image">
 			<img src="assets/images/weather_app_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -86,7 +86,7 @@ permalink: webapps
 		</div>
 	</section>
 	<section class="website-item">
-		<a href="generic.html" class="image">
+		<a href="https://github.com/pinaska/quotes_on_dev_WP_app" class="image">
 			<img src="assets/images/qod_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -103,7 +103,7 @@ permalink: webapps
 		</div>
 	</section>
 	<section class="website-item">
-		<a href="generic.html" class="image">
+		<a href="https://pinaska.github.io/pong-game_ES6_SVG_render_web_game/" class="image">
 			<img src="assets/images/pong_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -120,7 +120,7 @@ permalink: webapps
 		</div>
 	</section>
 	<section class="website-item">
-		<a href="generic.html" class="image">
+		<a href="https://my-note-app.glitch.me/" class="image">
 			<img src="assets/images/notes_taking_kate_jeziorska_web_development.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">

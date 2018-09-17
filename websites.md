@@ -17,7 +17,7 @@ permalink: websites
 		<header class="major">
 			<h2>how I work</h2>
 		</header>
-		<p>For me, a website is not just a bunch of code lines, displaying nice visuals at the end. It is a living place that needs to suit the emotions and fullfill certain business needs.<br />I choose my programming stack based on project requirements, but my first choice for client website is a free, developer-ready WordPress installaion.</p>
+		<p>For me, a website is not just a bunch of code lines, displaying nice visuals at the end. It is a living place that needs to suit the emotions and fulfill certain business needs.<br />I choose my programming stack based on project requirements, but my first choice for client website is a free, developer-ready WordPress installation.</p>
 	</div>
 </section>
 
@@ -56,7 +56,7 @@ permalink: websites
 				</header>
 				<p>summer -autumn 2018.</p>
 					<ul>
-						<li>final, team project of Web Development Professional Programm at RED Academy, Vancouver</li>
+						<li>final, team project of Web Development Professional Program at RED Academy, Vancouver</li>
 						<li>coded a multipage website based on delivered mockup</li>
 						<li>used developer theme, _underscore</li>
 						<li>customized paid plugin: event calendar</li>
@@ -141,7 +141,7 @@ permalink: websites
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Personal webiste 1.0</h3>
+					<h3>Personal website 1.0</h3>
 				</header>
 				<p>winter 2018.</p>
 				<ul>
