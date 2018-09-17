@@ -2,7 +2,7 @@
 layout: page
 title: about me
 description: 'An average 30 something girl, who likes code, numbers and people <br /><br /> Read more about me'
-image: assets/images/kate_jeziorska_web_development.png" alt="two coffe mugs Kate Jeziorska web development" 
+image: assets/images/kate_jeziorska_web_development.png" alt="two coffee mugs Kate Jeziorska web development" 
 nav-menu: true
 # show_tile: false
 order: 4
@@ -41,11 +41,11 @@ permalink: about
 		<!--Break-->
 			<div class="4u 12u$(small)">
 				<h3>... a project manager</h3>
-				<pl>I have worked 5+ years in a finance, corporate enviroment in Poland and Canada, leading projects and analyzing numbers. My previous jobs and studies helped me grately to understand web. Seriously! I studied language and culture -  now I can apply my knowledge of human needs to web design! I am well organized with an eye for details. If you need a go-getter, I am your person.</pl>
+				<pl>I have worked 5+ years in a finance, corporate environment in Poland and Canada, leading projects and analyzing numbers. My previous jobs and studies helped me greately to understand web. Seriously! I studied language and culture -  now I can apply my knowledge of human needs to web design! I am well organized with an eye for details. If you need a go-getter, I am your person.</pl>
 			</div>
 			<div class="4u 12u$(small)">
 				<h3>... a women community builder</h3>
-				<p>Staring from November 2016 I have organized more than 20 meetings for women new to Vancouver. In 2017 I listened to 150+ women stories. Every month we meet, we chat, we grow. This is all possible thanks to Mount Pleasant Neighbourhood House and Vacnouver Foundation. And it all started becuse I wanted to support women in my community.</p>
+				<p>Staring from November 2016 I have organized more than 20 meetings for women new to Vancouver. In 2017 I listened to 150+ women stories. Every month we meet, we chat, we grow. This is all possible thanks to Mount Pleasant Neighbourhood House and Vancouver Foundation. And it all started beacuse I wanted to support women in my community.</p>
 			</div>
 			<div class="4u$ 12u$(small)">
 				<h3>... a blogger</h3>

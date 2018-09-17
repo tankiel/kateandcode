@@ -2,7 +2,6 @@
 layout: page
 title: how we can work
 description: see how we can make your internet nice
-image: assets/images/pic11.jpg
 nav-menu: true
 show_tile: false
 ---
