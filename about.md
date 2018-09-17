@@ -41,7 +41,7 @@ permalink: about
 		<!--Break-->
 			<div class="4u 12u$(small)">
 				<h3>... a project manager</h3>
-				<pl>I have worked 5+ years in a finance, corporate environment in Poland and Canada, leading projects and analyzing numbers. My previous jobs and studies helped me greately to understand web. Seriously! I studied language and culture -  now I can apply my knowledge of human needs to web design! I am well organized with an eye for details. If you need a go-getter, I am your person.</pl>
+				<p>I have worked 5+ years in a finance, corporate environment in Poland and Canada, leading projects and analyzing numbers. My previous jobs and studies helped me greately to understand web. Seriously! I studied language and culture -  now I can apply my knowledge of human needs to web design! I am well organized with an eye for details. If you need a go-getter, I am your person.</p>
 			</div>
 			<div class="4u 12u$(small)">
 				<h3>... a women community builder</h3>
