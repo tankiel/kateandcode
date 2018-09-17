@@ -6,6 +6,7 @@ image: assets/images/kate_jeziorska_web_development.png" alt="two coffe mugs Kat
 nav-menu: true
 # show_tile: false
 order: 4
+permalink: about
 ---
 
 <!-- Main -->

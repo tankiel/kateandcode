@@ -5,6 +5,7 @@ description: 'my current IT stack includes both front and back-end programming e
 image: assets/images/code_books_kate_jeziorska_web_development.png" alt="PHP code on the screen Kate Jeziorska web development" 
 nav-menu: true
 order: 3
+permalink: technologies
 ---
 
 <!-- Main

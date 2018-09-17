@@ -5,6 +5,7 @@ description: 'simple applications helping with everyday stuff. Or for fun! <br /
 image: assets/images/gameboy_kate_jeziorska_web_development.png" alt="yellow gameboy Kate Jeziorska web development"
 nav-menu: true
 order: 2
+permalink: webapps
 ---
 
 <!-- Main -->
