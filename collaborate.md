@@ -4,6 +4,7 @@ title: how we can work
 description: see how we can make your internet nice
 nav-menu: true
 show_tile: false
+permalink: collaboration
 ---
 <div id="main">
 <section id="one">
