@@ -10,6 +10,7 @@
 		@include icon;
 		border-bottom: none;
 		position: relative;
+		font-size: 1.2rem;
 
 		> .label {
 			display: none;
@@ -37,13 +38,13 @@
 
 			&:hover {
 				&:before {
-					background-color: _palette(accent3);
+					background-color: _palette(accent1);
 				}
 			}
 
 			&:active {
 				&:before {
-					background-color: desaturate(darken(_palette(accent3), 15), 5);
+					background-color: desaturate(darken(_palette(accent1), 15), 5);
 				}
 			}
 		}

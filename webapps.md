@@ -55,7 +55,7 @@ permalink: webapps
 				</header>
 				<p>spring 2018.</p>
 					<ul>
-						<li>very simple app built with jquery</li>
+						<li>app built with jquery</li>
 						<li>css styling based on material design</li>
 					</ul>
 				<ul class="actions">
@@ -75,7 +75,7 @@ permalink: webapps
 				</header>
 						<p>ongoing</p>
                         <ul>
-						<li>very simple app built with jquery</li>
+						<li></li>app built with jquery</li>
 						<li>showing current time and weather from Open Weather API</li>
                         <li>animated weather icons from codepen.io</li>
 					</ul>

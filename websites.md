@@ -127,7 +127,7 @@ permalink: websites
 					<h3>Aloha RWD site</h3>
 				</header>
 				<p>spring 2018.</p>
-				<p>My first school project coded from PSD, fully responsive | vanilla JS library used</p>
+				<p>My first school project coded from PSD, responsive | vanilla JS used</p>
 				<ul class="actions">
 					<li><a href="https://pinaska.github.io/aloha_webiste_one-page/" class="button">demo</a></li>
 				</ul>
