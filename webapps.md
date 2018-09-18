@@ -75,7 +75,7 @@ permalink: webapps
 				</header>
 						<p>ongoing</p>
                         <ul>
-						<li></li>app built with jquery</li>
+						<li>app built with jquery</li>
 						<li>showing current time and weather from Open Weather API</li>
                         <li>animated weather icons from codepen.io</li>
 					</ul>
