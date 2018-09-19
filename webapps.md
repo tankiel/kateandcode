@@ -95,7 +95,7 @@ permalink: webapps
 					<h3>Quotes on Devs WordPress app</h3>
 				</header>
                         <p>spring 2018</p>
-						<p>simple Wordpress based application using Wordpress REST API endpoint using Ajax to get and post custom posts..</p>
+						<p>Wordpress based application using Wordpress REST API endpoint using Ajax to get and post custom posts..</p>
 				<ul class="actions">
 					<li><a href="https://github.com/pinaska/quotes_on_dev_WP_app" class="button">check the code</a></li>
 				</ul>

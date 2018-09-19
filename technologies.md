@@ -48,8 +48,13 @@ permalink: technologies
 						<td>learn PHP for backend</td>
 					</tr>
 					<tr>
+						<td><strong>Static website generator</strong></td>
+						<td>1 website set up on Jekyll.Challenge: support for Windows</td>
+						<td>learn Gatsby and Hugo</td>
+					</tr>
+					<tr>
 						<td><strong>WordPress</strong></td>
-						<td>3+ WordPress customization done with PHP. Working knowledge of WP developer themes' and plugins customization; WP queries; WP template hierarchy. Experience with commercial themes and page builders.</td>
+						<td>3+ WordPress customization done with PHP. Working knowledge of WP developer themes' and plugins' customization; WP queries; WP template hierarchy. Experience with commercial themes and page builders.</td>
 						<td>dive into Gutenberg and adjust existing pages</td>
 					</tr>
 					<tr>
