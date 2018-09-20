@@ -14,7 +14,7 @@ permalink: technologies
  <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Technologies and programing languages I have worked with.</h1>
+			<h1>Technologies and programing languages I have worked with. And more</h1>
 		</header>
 		<h4>All the web related stuff I know</h4>
 		<div class="table-wrapper">
@@ -54,8 +54,8 @@ permalink: technologies
 					</tr>
 					<tr>
 						<td><strong>WordPress</strong></td>
-						<td>3+ WordPress customization done with PHP. Working knowledge of WP developer themes' and plugins' customization; WP queries; WP template hierarchy. Experience with commercial themes and page builders.</td>
-						<td>dive into Gutenberg and adjust existing pages</td>
+						<td>3+ WordPress customization done with PHP. Working knowledge of WP developer themes' and plugins' customization; WP queries; WP template hierarchy. Experience with commercial themes and page builders (5+ WordPress sites).</td>
+						<td>dive into Gutenberg and adjust existing websites</td>
 					</tr>
 					<tr>
 						<td><strong>Web setup</strong></td>
@@ -69,19 +69,20 @@ permalink: technologies
 					</tr>
 					<tr>
 						<td><strong>Web projects management</strong></td>
-						<td>working in compliance with Agile methodology; managing 2 WordPress projects with clients (communication, documentation, invoicing)</td>
+						<td>working in compliance with Agile methodology; managing 2 WordPress projects with clients (communication, documentation, invoicing); project management tools: Asana, Trello; project documentation and execution</td>
 						<td>learn about SSL</td>
 					</tr>
 					<tr>
 						<td><strong>Digital marketing</strong></td>
-						<td>working knowledge of Google Analytics and Google Tag Manager (up to 10k page visits per month ); managing social media: FB and IG (2 accounts); 3+ newsletter integrations (Mailerlite)</td>
+						<td>working knowledge of Google Analytics and Google Tag Manager (up to 10k page visits per month ); managing social media: FB and IG (Hootsuite, Later); 3+ newsletter integrations (Mailerlite); landing pages: Unbounce</td>
 						<td>learn Google Ads and paid FB/IG campaigns</td>
 					</tr>
 				</tbody>
 			</table>
 		</div>
+			<h4>Other subjects I have covered</h4>
+			<p>Design: Canva online tool</p>
 </div>
-
 <!--<h3>Buttons</h3>
 <ul class="actions">
 	<li><a href="#" class="button special">Special</a></li>
