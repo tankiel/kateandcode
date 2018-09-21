@@ -4,7 +4,7 @@ subtitle: Web development
 email: hi@katejeziorska.com
 description: I build websites, web apps<br /> and make your internet nice.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://katejeziorska.com # the base hostname & protocol for your site
+url: https://katejeziorska.com # the base hostname & protocol for your site
 author:
 street_address: 
 city: Vancouver
