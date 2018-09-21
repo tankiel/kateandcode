@@ -77,7 +77,13 @@ permalink: websites
 				<header class="major">
 					<h3>Kasia i kod WordPress blog</h3>
 				</header>
-						<p>ongoing</p>
+					<ul>
+						<li>my first customized WordPress theme, child theme of twenty sixteen</li>
+						<li>custom WP query, custom post types and WordPress templates</li>
+						<li>full integration with newsletter system, social media feeds and Google Analytics</li>
+						<li>CSS and HTML changes of the plugin: Maintenance and coming soon, so it matched the website brand</li>
+						<li>designed and optimized all webiste graphics</li>
+					</ul>
 				<ul class="actions">
 					<li><a href="https://www.kasiaikod.pl/" class="button">[pol]see the website</a></li>
 				</ul>
