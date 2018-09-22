@@ -22,7 +22,6 @@ permalink: collaboration
                 <li>be a point of contact to your digital partners and answer their queries about the product/web service</li>
                 <li>cooperate with different teams to achieve the best quality and work satisfaction </li>
                 <li>create and maintain relevant project documentation as well as gather and prioritze the software requirements</li>
-                <li></li>
             </ul>
     </div><!--inner-->
 </section>
