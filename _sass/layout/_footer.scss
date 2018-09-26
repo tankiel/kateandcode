@@ -26,6 +26,9 @@
             }
         }
     }
+    .cookie-text{
+        font-size: 8px;
+    }
     @include breakpoint(xsmall) {
         .copyright {
             li {
