@@ -5,6 +5,8 @@ email: hi@katejeziorska.com
 description: I build websites, web apps<br /> and make your internet nice.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://katejeziorska.com # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
 author:
 street_address: 
 city: Vancouver
