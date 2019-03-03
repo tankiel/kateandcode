@@ -41,7 +41,7 @@ permalink: about
 		<!--Break-->
 			<div class="4u 12u$(small)">
 				<h3>... a project manager</h3>
-				<p>I have worked 5+ years in a finance, corporate environment in Poland and Canada, leading projects and analyzing numbers. My previous jobs and studies helped me greately to understand web. Since November 2018 I am working as a web project and QA coordinator in <a hreft="https://www.majortom.com/">a leading interactive agency</a>, in Vancouver B.C.</p>
+				<p>I have worked 5+ years in a finance, corporate environment in Poland and Canada, leading projects and analyzing numbers. My previous jobs and studies helped me greately to understand web. Since November 2018 I am working as a web project and QA coordinator in <a href="https://www.majortom.com/">a leading interactive agency</a>, in Vancouver B.C.</p>
 			</div>
 			<div class="4u 12u$(small)">
 				<h3>... a women community builder</h3>
